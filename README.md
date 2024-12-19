@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bofta&show_icons=true&locale=en" alt="bofta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bofta&" alt="bofta" /></p>
+
+<a href="https://app.daily.dev/montasserbenrejeb"><img src="https://api.daily.dev/devcards/v2/nynvhGU0j6Yyp5WW4DiAd.png?type=default&r=l8r" width="356" alt="Montasser Ben Rejeb's Dev Card"/></a>
