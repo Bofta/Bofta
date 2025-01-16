@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bofta" alt="bofta" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning and working on something cool 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bofta&show_icons=true&locale=en" alt="bofta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bofta&" alt="bofta" /></p>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6676f3bb1992aeecaff07f93?variant=dark" alt="roadmap.sh"/></a>
 
 <a href="https://app.daily.dev/montasserbenrejeb"><img src="https://api.daily.dev/devcards/v2/nynvhGU0j6Yyp5WW4DiAd.png?type=default&r=l8r" width="356" alt="Montasser Ben Rejeb's Dev Card"/></a>
